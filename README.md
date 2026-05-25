@@ -163,12 +163,6 @@ streamlit run app.py
 
 ---
 
-# 📸 Project Screenshots
-
-*Add screenshots of your dashboard and graphs here.*
-
----
-
 # 👨‍💻 Author
 
 **Yashovardhan Appakaya**
